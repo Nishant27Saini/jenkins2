@@ -1,2 +1,2 @@
-hello
-sir
+print("hello")
+
